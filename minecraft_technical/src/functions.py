@@ -58,6 +58,8 @@ def batch_stacks(file):
     print(new_dct)
 
     return new_dct
+
+
 '''
 def batch_dict(file):
     with open(file, 'r') as f:
@@ -69,4 +71,5 @@ def batch_dict(file):
         dct[x[1]] = x[0]
     print(dct)
     return(dct)
+    a
 '''
