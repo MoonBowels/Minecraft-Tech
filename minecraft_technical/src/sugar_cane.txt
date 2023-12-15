@@ -1,0 +1,46 @@
+1139 block
+516 glass
+78 stair
+546 dirt
+546 sugar_cane
+30 hopper
+10 barrel
+670 rail
+240 power_rail
+10 hopper_minecart
+2 water
+2 chest
+71 redstone_torch
+21 repeater
+10 comparator
+2 obsidian
+18 slime_block
+4 redstone
+4 observer
+2 piston
+2 sticky_piston
+3 lever
+        
+---STACKED---
+17 stacks + 51 'block'
+8 stacks + 4 'glass'
+1 stacks + 14 'stair'
+8 stacks + 34 'dirt'
+8 stacks + 34 'sugar_cane'
+30 'hopper'
+10 'barrel'
+10 stacks + 30 'rail'
+3 stacks + 48 'power_rail'
+10 'hopper_minecart'
+2 'water'
+2 'chest'
+1 stacks + 7 'redstone_torch'
+21 'repeater'
+10 'comparator'
+2 'obsidian'
+18 'slime_block'
+4 'redstone'
+4 'observer'
+2 'piston'
+2 'sticky_piston'
+3 'lever'
